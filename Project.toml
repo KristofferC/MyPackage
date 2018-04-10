@@ -1,0 +1,6 @@
+authors = ["Kristoffer Carlsson <kcarlsson89@gmail.com>"]
+name = "MyPackage"
+uuid = "ca6b0568-3bd5-11e8-03d1-b5f568b6a1ce"
+version = "0.1.0"
+
+[deps]
